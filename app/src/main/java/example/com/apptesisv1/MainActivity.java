@@ -16,7 +16,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
 
-    //nano gay desde android studio
+    //nano gay desde android studio v2
     //final int MY_PERMISSIONS_REQUEST_CALL_PHONE = 0;
     Button llamar;
     //int permiso=0;
